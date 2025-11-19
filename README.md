@@ -64,8 +64,5 @@ Currently focused on improving my C++, web development skills, and building real
 My Freelance Project:
 https://github.com/rohitroy17-gif/my-freelance-project
 
-my payoo project:
-https://github.com/rohitroy17-gif/payoo.project
-
 My Game Library Project:
 https://github.com/rohitroy17-gif/Game-Library
