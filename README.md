@@ -61,8 +61,8 @@ Currently focused on improving my C++, web development skills, and building real
 ---
 
 ## 📌 Pinned Repositories
-My Freelance Project:
-https://github.com/rohitroy17-gif/my-freelance-project
+My MLOPS Project:
+https://github.com/rohitroy17-gif/MLOPS-PROJ1
 
 My Game Library Project:
 https://github.com/rohitroy17-gif/Game-Library
