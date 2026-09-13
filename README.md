@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Modern Minimal Technology Background Banner.png" alt="Banner" />
+  <img src="Rohit_Roy_Portfolio_Cover_Full_HD_1920x1080.png" alt="Banner" />
 </p>
 
 # Hi, I'm Rohit Roy 👋
@@ -91,16 +91,6 @@ RAG · LLM · Streamlit
 
 ---
 
-### 🎮 Game Library
-
-Full-stack web application built to practice modern frontend,
-backend, database, and API development.
-
-**Stack:** React · Node.js · Express.js · MongoDB
-
-🔗 https://github.com/rohitroy17-gif/Game-Library
-
----
 
 ## Current Focus
 
