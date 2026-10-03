@@ -5,7 +5,7 @@
 
 # Hi, I'm Rohit Roy 👋
 
-### AI/ML Engineer | Generative AI | MLOps
+### AI Automation | AI/ML | Generative AI | MLOps
 
 Computer Science undergraduate focused on building practical AI systems
 using Machine Learning, Generative AI, LLMs, and MLOps.
